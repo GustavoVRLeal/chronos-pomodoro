@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     font-size: 12px;
-    gap: 16px;
+    gap: 5px;
 }
 
 .footer a {
@@ -18,4 +18,3 @@
     color: var(--text-muted);
     text-decoration: underline;
 }
-
